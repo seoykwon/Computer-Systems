@@ -1,0 +1,8 @@
+.pos 0x1000
+code:
+
+.pos 0x2000
+static:
+
+.pos 0x3000
+heap:
